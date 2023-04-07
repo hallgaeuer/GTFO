@@ -3,6 +3,11 @@ GTFO.SpellID["40611"] = {
 	sound = 1;
 };
 
+GTFO.SpellID["36240"] = {
+	--desc = "Cave In (Gruul)";
+	sound = 1;
+};
+
 GTFO.SpellID["41482"] = {
 	--desc = "Blizzard (Illidari Council)";
 	sound = 1;
